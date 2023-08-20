@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 📫 How to reach me:
-TWITTER: @justineagcanas1
-FB: Justine Agcanas
-IG: @_justine627
-EMAIL: agcanasjustine1@gmail.com
+- **TWITTER**: @justineagcanas1
+- **FB**: Justine Agcanas
+- **IG**: @_justine627
+- **EMAIL**: agcanasjustine1@gmail.com
