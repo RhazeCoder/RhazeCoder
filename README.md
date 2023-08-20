@@ -4,4 +4,5 @@
 - 📫 How to reach me:
 TWITTER: @justineagcanas1
 FB: Justine Agcanas
-IG: @justine0627
+IG: @_justine627
+EMAIL: agcanasjustine1@gmail.com
