@@ -22,4 +22,5 @@
 
 ------------------------------------------- 
 
+### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{justineagcanas}/count.svg)
