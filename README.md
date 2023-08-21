@@ -17,7 +17,7 @@
 
 ------------------------------------------- 
 
-### Tools I used & still using: 
+### Tools that I use: 
 <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/Replit-%23F26207.svg?&style=for-the-badge&logo=replit&logoColor=white">
 
 ------------------------------------------- 
