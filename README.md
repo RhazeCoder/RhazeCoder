@@ -1,9 +1,9 @@
 ------------------------------------------- 
 ### Socials: 
-<a href="https://www.facebook.com/justine.agcanas.7/"><img src="https://img.shields.io/badge/Justine Agcanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
-<a href="https://instagram.com/_justine627"><img src="https://img.shields.io/badge/Justine Agcanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
-<a href="https://twitter.com/_a_justine"><img src="https://img.shields.io/badge/Justine Agcanas-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
-<a href="https://t.me/@rhaze_ph"><img src="https://img.shields.io/badge/Justine Agcanas-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.facebook.com/justine.agcanas.7/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+<a href="https://instagram.com/_justine627"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://twitter.com/_a_justine"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://t.me/@rhaze_ph"><img src="https://img.shields.io/badge/Telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 <br>
 <br>
 ### Contact me: 
