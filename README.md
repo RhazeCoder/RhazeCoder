@@ -22,5 +22,13 @@
 
 ------------------------------------------- 
 
+### Projects Preview:
+<a href="https://tiktok-downloader.justineagcanas.live/"><img src="http://img.shields.io/badge/Tiktok Downloader-0d6efd?style=for-the-badge&logo=Github&logoColor=white"></a> 
+<a href="https://ngl-bomber.justineagcanas.live/"><img src="http://img.shields.io/badge/NGl Bomber-ec1187?style=for-the-badge&logo=Github&logoColor=white"></a> 
+<a href="https://rhazecoder.github.io/password-generator/"><img src="http://img.shields.io/badge/Password Generator-000000?style=for-the-badge&logo=Github&logoColor=white"></a> 
+
+------------------------------------------- 
+
+
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{justineagcanas}/count.svg)
