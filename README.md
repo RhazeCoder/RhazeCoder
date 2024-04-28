@@ -17,11 +17,16 @@
 
 ------------------------------------------- 
 
-### Tools that I use: 
+### Tools I'm using: 
 <img src="https://img.shields.io/badge/github%20-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23f14e32.svg?&style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/discord%20-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="http://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&logo=Linux&logoColor=000000">  <img src="https://img.shields.io/badge/Replit-%23F26207.svg?&style=for-the-badge&logo=replit&logoColor=white">
 
 ------------------------------------------- 
 
+### #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@RhazeCoder/30-nites-of-code)  
+  ![@RhazeCoder #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RhazeCoder)
+
+------------------------------------------- 
 
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{justineagcanas}/count.svg)
