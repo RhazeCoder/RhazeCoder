@@ -22,11 +22,5 @@
 
 ------------------------------------------- 
 
-### #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@RhazeCoder/30-nites-of-code)  
-  ![@RhazeCoder #30NitesOfCode](https://www.codedex.io/api/petStatus?user=RhazeCoder)
-
-------------------------------------------- 
-
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{justineagcanas}/count.svg)
